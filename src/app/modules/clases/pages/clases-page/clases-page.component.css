@@ -1,0 +1,5 @@
+.container{
+    background: var(--color-4);
+    width: 85%;
+    margin: auto;
+}
